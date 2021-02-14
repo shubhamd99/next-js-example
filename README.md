@@ -1,4 +1,6 @@
-#### Next JS - A React Framework
+### Next JS - A React Framework
+
+![next image](https://i.imgur.com/6enkctk.png)
 
 * Next.js is an open-source React front-end development web framework created by Vercel (formerly Zeit) that enables functionality such as server-side rendering and generating static websites for React based web applications.
 
