@@ -19,3 +19,10 @@
 1. `npx create-next-app next-example --use-npm` or `yarn create-next-app next-example`
 2. cd next-example
 3. npm run dev
+
+
+###### Tips:
+1. Anything we put under page's directory will open in a separate route, ex. http://localhost:3000/about
+2. lowercase used for pages and Upper case used for components
+3. We cannot import globals css in any components, we have to import it in _app.js only
+4. Each page should have separate css file with your_css_name.module.css naming convention
