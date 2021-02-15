@@ -26,3 +26,4 @@
 2. lowercase used for pages and Upper case used for components
 3. We cannot import globals css in any components, we have to import it in _app.js only
 4. Each page should have separate css file with your_css_name.module.css naming convention
+5. Any file inside the folder pages/api is mapped to /api/* and will be treated as an API endpoint instead of a page.
